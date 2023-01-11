@@ -30,7 +30,7 @@ public class Fecha {
         this.mes = mes;
         this.anio = anio;
     }
-
+//devuelve el día
     public int getDia() {
         return this.dia;
     }
