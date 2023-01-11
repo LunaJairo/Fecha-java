@@ -9,7 +9,7 @@ package com.fecha.prog03_ejerc1;
  * @author LunaEstudios
  */
 public class Fecha {
-
+//enum meses del mes
     enum enumMes {
         ENERO, FEBRERO, MARZO, ABRIL, MAYO, JUNIO, JULIO, AGOSTO, SEPTIEMBRE, OCTUBRE, NOVIEMBRE, DICIEMBRE
 
