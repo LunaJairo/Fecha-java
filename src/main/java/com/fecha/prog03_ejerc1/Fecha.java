@@ -14,7 +14,7 @@ public class Fecha {
         ENERO, FEBRERO, MARZO, ABRIL, MAYO, JUNIO, JULIO, AGOSTO, SEPTIEMBRE, OCTUBRE, NOVIEMBRE, DICIEMBRE
 
     }
-
+//modificación desde github
     private int dia;
     private enumMes mes;
     private int anio;
